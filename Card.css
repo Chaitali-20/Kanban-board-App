@@ -1,0 +1,32 @@
+/* Card.css */
+
+.feature-request {
+    display: flex;
+    align-items: center;
+  }
+  
+  .feature-button {
+    display: flex;
+    align-items: center;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .gray-image {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+  }
+  
+  .three-dots-button {
+    background-color: transparent;
+    border: none;
+    color: #999;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
